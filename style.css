@@ -333,7 +333,7 @@ body {
     }
 
     .products-section {
-        background: linear-gradient(to right, #000428, #004e92);
+        background: linear-gradient(to right, #004e92 ,#000428);
         color: white;
         padding: 80px 0;
     }
@@ -365,7 +365,7 @@ body {
 
 
 .services-section {
-    background: linear-gradient(to right, #004e92, #000428);
+    background: linear-gradient(to right, #000428,#004e92);
     color: white;
     padding: 80px 0;
 }
@@ -396,7 +396,7 @@ body {
         padding: 60px 20px;
     }
 }
-
+/* +++++++++++ Contect section++++++++++ */
 .contact-section {
     /* background: linear-gradient(to right, #004e92, #000428); */
     background: linear-gradient(to right, #000428, #004e92);
